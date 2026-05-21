@@ -332,10 +332,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-m-atom-structure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Structure / Atom",
           "curriculum_points": [
             "物质是由分子、原子构成的，物质结构决定性质，物质性质决定用途。",
@@ -436,10 +434,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-m-atomic-structure-demo"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Atomic Nucleus",
           "curriculum_points": [
             "物质是由分子、原子构成的，物质结构决定性质，物质性质决定用途。",
@@ -557,10 +553,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-m-ion-concept"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "物质是由分子、原子构成的，物质结构决定性质，物质性质决定用途。",
             "能从元素、原子、分子视角初步分析物质的组成及变化。",
@@ -615,10 +609,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-periodic-table"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Periodic Table",
           "curriculum_points": [
             "物质是由元素组成的；物质是由分子、原子构成的，物质结构决定性质，物质性质决定用途。",
@@ -2123,10 +2115,8 @@
           "id": "chem-daily-life",
           "name": "化学与生产生活（跨学科实践）",
           "grade": 8,
-          "status": "active",
-          "courses": [
-            "chem-daily-life"
-          ],
+          "status": "gap",
+          "courses": [],
           "description": "化学与生产生活（跨学科实践）（placeholder，待课件反向挂载）"
         }
       ],

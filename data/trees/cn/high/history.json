@@ -111,10 +111,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-sui-tang-ming-qing-political"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "通过了解三国两晋南北朝政权更迭的历史脉络，隋唐时期封建社会的高度繁荣，认识三国两晋南北朝至隋唐时期的制度变化与创新。",
             "通过了解明清时期封建专制的发展、世界的变化对中国的影响，认识中国社会面临的危机。"
@@ -148,10 +146,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-h-song-yuan-ming-qing-h"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "通过了解两宋的政治和军事，认识这一时期在政治、经济、文化与社会等方面的新变化；通过了解辽夏金元诸政权的建立、发展和相关制度建设，认识北方少数民族政权在统一多民族封建国家发展中的重要作用。",
             "通过了解明清时期统一全国和经略边疆的相关举措，知道南海诸岛、台湾及其包括钓鱼岛在内的附属岛屿是中国版图一部分，认识这一时期统一多民族国家版图奠定的重要意义；了解明清时期社会经济、思想文化的重要变化。"
@@ -399,10 +395,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-h-ancient-civ-h"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "本课程以马克思主义为指导，通过对中外重大历史事件、历史人物和历史现象的叙述，展现人类发展进程中丰富的历史文化遗产，以及人类社会从古至今、从分散到整体、社会形态从低级到高级的发展历程。",
             "通过学习，学生应了解和掌握唯物史观的基本观点，体会唯物史观的科学性，理解不同时空条件下历史的延续、变迁与发展，学习史料实证的基本方法，能够在此基础上对历史作出正确的解释。",
@@ -428,10 +422,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-classical-civilization"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "了解古希腊的城邦制度与雅典民主政治的特点。",
             "了解古罗马的法律制度及其对后世的影响。",
@@ -843,10 +835,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-h-industrial-rev-h"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Industrial Revolution",
           "curriculum_points": [
             "本课程以通史的叙事框架，展示中国历史和世界历史发展的基本过程。本课程共有24个专题，是高中历史学习的基本内容。",
@@ -1233,10 +1223,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-h-cold-war-h"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cold War",
           "curriculum_points": [
             "通过了解第二次世界大战后国际格局的变化，理解冷战的发生与发展，认识两极格局的特征及其对世界的影响。",
@@ -1533,10 +1521,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "ext-539f176d"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "通过了解春秋战国时期的经济发展和政治变动，理解战国时期变法运动的必然性；了解老子、孔子学说；通过孟子、荀子、庄子等了解“百家争鸣”的局面及其意义。",
             "通过了解三国两晋南北朝政权更迭的历史脉络，隋唐时期封建社会的高度繁荣，认识三国两晋南北朝至隋唐时期的制度变化与创新、民族交融、区域开发和思想文化领域的新成就。",
@@ -1564,10 +1550,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "hist-h-four-great-inventions"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "选择性必修课程采取专题史方式，旨在让学生从多角度进一步了解人类历史的发展。",
             "历史选择性必修课程是学生根据个人兴趣、升学需求而选择修习的课程，设《国家制度与社会治理》《经济与社会生活》和《文化交流与传播》三个模块。",

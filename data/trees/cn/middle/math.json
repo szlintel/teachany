@@ -19,10 +19,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-rational-number"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Rational Numbers",
           "curriculum_points": [
             "理解负数的意义；理解有理数的意义，能用数轴上的点表示有理数，能比较有理数的大小。",
@@ -46,10 +44,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-rational-operations"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Rational Numbers",
           "curriculum_points": [
             "掌握有理数的加、减、乘、除、乘方及简单的混合运算（以三步以内为主）；理解有理数的运算律，能运用运算律简化运算。",
@@ -69,10 +65,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-algebraic-expression"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Polynomials",
           "curriculum_points": [
             "理解整式的概念，掌握合并同类项和去括号的法则；能进行简单的整式加减运算。",
@@ -92,10 +86,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-algebraic-expressions"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Polynomials",
           "curriculum_points": [
             "理解整式的概念，掌握合并同类项和去括号的法则；能进行简单的整式加减运算，能进行简单的整式乘法运算。",
@@ -115,10 +107,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-real-number"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Real Numbers",
           "curriculum_points": [
             "了解无理数和实数，知道实数由有理数和无理数组成，了解实数与数轴上的点一一对应。",
@@ -138,10 +128,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-monomial-multiplication"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Factoring / Polynomials",
           "curriculum_points": [
             "理解整式的概念，掌握合并同类项和去括号的法则；能进行简单的整式加减运算，能进行简单的整式乘法运算。",
@@ -161,10 +149,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-fraction-expression"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Fractions",
           "curriculum_points": [
             "了解分式和最简分式的概念，能利用分式的基本性质进行约分和通分；能对简单的分式进行加、减、乘、除运算。",
@@ -187,10 +173,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-quadratic-radical"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Roots",
           "curriculum_points": [
             "了解二次根式、最简二次根式的概念，了解二次根式（根号下仅限于数）加、减、乘、除运算法则，会用它们进行简单的四则运算。",
@@ -212,10 +196,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-linear-equation-one"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Equations",
           "curriculum_points": [
             "掌握等式的基本性质；能利用等式的性质解一元一次方程。",
@@ -235,10 +217,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-linear-equations"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Equations",
           "curriculum_points": [
             "掌握等式的基本性质；能利用等式的性质解一元一次方程。",
@@ -259,10 +239,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-inequalities"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Inequalities",
           "curriculum_points": [
             "结合具体问题，了解不等式的意义，探索不等式的基本性质；能用不等式的基本性质对不等式进行变形；能解数字系数的一元一次不等式，并能在数轴上表示出解集；会用数轴确定两个一元一次不等式组成的不等式组的解集；能根据具体问题中的数量关系，列出一元一次不等式，解决简单的实际问题。",
@@ -281,10 +259,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-linear-inequality"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Inequalities",
           "curriculum_points": [
             "结合具体问题，了解不等式的意义，探索不等式的基本性质；能用不等式的基本性质对不等式进行变形。",
@@ -304,10 +280,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-linear-equation-two"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Equations",
           "curriculum_points": [
             "掌握消元法，能解二元一次方程组。",
@@ -328,10 +302,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-fraction-equation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Fractional Equations",
           "curriculum_points": [
             "掌握等式的基本性质；能解一元一次方程和可化为一元一次方程的分式方程。",
@@ -350,10 +322,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-quadratic-equation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Quadratic Equations",
           "curriculum_points": [
             "理解配方法，能用配方法、公式法、因式分解法解数字系数的一元二次方程。",
@@ -377,10 +347,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-coordinate-system"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cartesian Coordinate System",
           "curriculum_points": [
             "能建立平面直角坐标系，用坐标表示位置。",
@@ -404,10 +372,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-variable-function"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "探索简单实例中的数量关系和变化规律，了解常量、变量的意义；了解函数的概念和表示法，能举出函数的实例。",
             "能识别简单实际问题中的常量、变量及其意义，并能找出变量之间的数量关系及变化规律，形成初步的抽象能力；了解函数的概念和表示法，能举出函数的实例，初步形成模型观念。",
@@ -430,10 +396,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-proportional-function"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Proportions",
           "curriculum_points": [
             "能画一次函数的图象，根据图象和表达式 y = kx + b (k ≠ 0) 探索并理解 k > 0 和 k < 0 时图象的变化情况；理解正比例函数。",
@@ -456,12 +420,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-linear-function",
-            "math-m-linear-func-demo",
-            "math-m-linear-function-inquiry-phone-plan"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Linear Function",
           "curriculum_points": [
             "能根据简单实际问题中的已知条件确定一次函数的表达式；会在不同问题情境中运用待定系数法确定一次函数的表达式。",
@@ -473,29 +433,6 @@
           "chapter_source": "legacy_graph",
           "excerpt_ids": [
             "fill-kp-math-m-function-math-m-linear-function"
-          ],
-          "course_variants": [
-            {
-              "id": "math-linear-function",
-              "author": "weponusa",
-              "variant": "",
-              "version": "3.0",
-              "difficulty": 3
-            },
-            {
-              "id": "math-m-linear-func-demo",
-              "author": "",
-              "variant": "",
-              "version": "1.0",
-              "difficulty": 1
-            },
-            {
-              "id": "math-m-linear-function-inquiry-phone-plan",
-              "author": "TeachAny",
-              "variant": "",
-              "version": "0.1.0",
-              "difficulty": 1
-            }
           ]
         },
         {
@@ -508,10 +445,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-linear-equation-system-graph"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Linear Function / Equations",
           "curriculum_points": [
             "会根据一次函数的图象解释一次函数与二元一次方程的关系。",
@@ -532,10 +467,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-inverse-proportion"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Inverse Proportion Function",
           "curriculum_points": [
             "结合具体情境体会反比例函数的意义，能根据已知条件确定反比例函数的表达式。",
@@ -560,10 +493,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-quadratic-function"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Quadratic Function",
           "curriculum_points": [
             "会通过分析实际问题的情境确定二次函数的表达式，体会二次函数的意义；会用描点法画出二次函数的图象，会利用一些特殊点画出二次函数的草图。",
@@ -593,10 +524,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-geometric-figure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "通过实物和模型，了解从物体抽象出来的几何体、平面、直线和点等概念。",
             "会比较线段的长短，理解线段的和、差，以及线段中点的意义。",
@@ -616,10 +545,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-line-angle"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "理解补角、余角、对顶角的意义。理解垂线的意义，掌握基本事实：过一点有且只有一条直线垂直于另一条直线。",
             "理解点到直线的距离的意义，掌握基本事实：垂线段最短。理解平行线的概念，掌握基本事实：过直线外一点有且只有一条直线平行于这条直线。",
@@ -639,10 +566,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-triangle-basics"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Triangles",
           "curriculum_points": [
             "理解三角形及其有关概念（高、中线、角平分线），会画任意三角形的高、中线、角平分线。",
@@ -663,10 +588,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-ruler-compass-construction"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "能用尺规作图：已知三边、两边及其夹角、两角及其夹边作三角形；已知底边及底边上的高线作等腰三角形；已知一直角边和斜边作直角三角形。",
             "掌握基本事实：两点确定一条直线。掌握基本事实：两点之间线段最短。理解两点间距离的意义，能度量两点间的距离。"
@@ -687,10 +610,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-isosceles-triangle"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Triangles",
           "curriculum_points": [
             "能用尺规作图：已知三边、两边及其夹角、两角及其夹角作三角形；已知底边及底边上的高线作等腰三角形；已知一直角边和斜边作直角三角形。",
@@ -711,10 +632,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-pythagorean-theorem"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "探索勾股定理及其逆定理，并能运用它们解决一些简单的实际问题。",
             "能运用相交线、平行线、三角形、四边形的基本性质和判定解决问题。"
@@ -735,10 +654,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-congruent-triangles"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Congruent Triangles",
           "curriculum_points": [
             "探索并证明判定直角三角形全等的“斜边、直角边”定理。",
@@ -761,10 +678,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-quadrilateral"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Quadrilaterals / Polygons",
           "curriculum_points": [
             "探索并证明平行四边形的性质定理：平行四边形的对边相等、对角相等、对角线互相平分。",
@@ -784,10 +699,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-geometry-quadrilaterals"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Quadrilaterals",
           "curriculum_points": [
             "了解多边形的概念及多边形的顶点、边、内角、外角与对角线；探索并掌握多边形内角和与外角和公式。",
@@ -808,10 +721,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-special-quadrilateral"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Quadrilaterals",
           "curriculum_points": [
             "探索并证明矩形、菱形的性质定理：矩形的四个角都是直角，对角线相等；菱形的四条边相等，对角线互相垂直。",
@@ -833,10 +744,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-similar-triangles"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Similar Triangles",
           "curriculum_points": [
             "了解相似三角形的判定定理：两角分别相等的两个三角形相似；两边成比例且夹角相等的两个三角形相似；三边成比例的两个三角形相似。",
@@ -860,10 +769,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-trig-ratio"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Trigonometric Functions / Angles",
           "curriculum_points": [
             "利用相似的直角三角形，探索并认识锐角三角函数（sin A, cos A, tan A），知道30°, 45°, 60°角的三角函数值。",
@@ -884,10 +791,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-axial-symmetry"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Symmetry",
           "curriculum_points": [
             "能理解图形的变化（平移、旋转、轴对称、相似、位似）。",
@@ -907,10 +812,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-rotation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Rotation",
           "curriculum_points": [
             "能理解图形的变化（平移、旋转、轴对称、相似、位似）。",
@@ -930,10 +833,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-translation-dilation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Translation",
           "curriculum_points": [
             "了解图形的位似，知道利用位似可以将一个图形放大或缩小。",
@@ -952,10 +853,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-circle-basics"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Circle",
           "curriculum_points": [
             "了解比例的基本性质、线段的比、成比例的线段；通过建筑、艺术上的实例了解黄金分割。",
@@ -972,10 +871,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-circle-angle"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Angles / Circle",
           "curriculum_points": [
             "探索并证明圆周角定理及其推论：圆周角的度数等于它所对弧上的圆心角度数的一半；直径所对的圆周角是直角；90°的圆周角所对的弦是直径。",
@@ -994,10 +891,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-arc-sector"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Area",
           "curriculum_points": [
             "了解直棱柱、圆锥的侧面展开图，能根据展开图想象和制作模型。",
@@ -1017,10 +912,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-circle-tangent"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Circle",
           "curriculum_points": [
             "初中9年级学段目标：理解并掌握「直线与圆的位置关系」的基本概念与方法",
@@ -1038,10 +931,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-inscribed-circumscribed"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Triangles / Circle",
           "curriculum_points": [
             "了解多边形的概念及多边形的顶点、边、内角、外角与对角线；探索并掌握多边形内角和与外角和公式。",
@@ -1060,10 +951,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-geometry-circle"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Circle",
           "curriculum_points": [
             "了解比例的基本性质、线段的比、成比例的线段；通过建筑、艺术上的实例了解黄金分割。",
@@ -1090,10 +979,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-data-collection"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "经历收集、整理、描述和分析数据的活动，了解数据处理的过程；能用计算器处理较为复杂的数据。",
             "体会抽样的必要性，通过实例了解简单随机抽样。",
@@ -1112,10 +999,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-data-description"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "会制作扇形统计图，能用统计图直观、有效地描述数据。",
             "能用适当的统计图表描述数据；理解平均数、中位数、众数、方差的意义；能用样本估计总体。",
@@ -1134,10 +1019,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-data-analysis"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Median / Mode / Variance",
           "curriculum_points": [
             "理解平均数的意义，能计算中位数、众数、加权平均数，了解它们是数据集中趋势的描述。",
@@ -1157,10 +1040,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-sampling-estimation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "体会抽样的必要性，通过实例了解简单随机抽样。",
             "能用适当的统计图表描述数据；理解平均数、中位数、众数、方差的意义；能用样本估计总体。"
@@ -1178,10 +1059,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-probability-basic"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Probability",
           "curriculum_points": [
             "能列出简单随机现象所有可能的结果，知道随机事件发生的可能性有大有小。",
@@ -1201,10 +1080,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-probability-frequency"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Probability",
           "curriculum_points": [
             "能通过大量重复试验，用频率估计概率。",
@@ -1223,10 +1100,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-m-statistics-probability-junior"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Probability / Statistics",
           "curriculum_points": [
             "经历收集、整理、描述和分析数据的活动，了解数据处理的过程；能用计算器处理较为复杂的数据。",

@@ -19,10 +19,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-cell-structure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cells",
           "curriculum_points": [
             "1.2.2 阐明细胞内具有多个相对独立的结构，担负着物质运输、合成与分解、能量转换和信息传递等生命活动",
@@ -99,10 +97,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-elements-compounds"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cells",
           "curriculum_points": [
             "说出细胞主要由C、H、O、N、P、S等元素构成，它们以碳链为骨架形成复杂的生物大分子",
@@ -178,10 +174,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-protein-nucleic-acid"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Proteins",
           "curriculum_points": [
             "阐明蛋白质通常由20种氨基酸分子组成，它的功能取决于氨基酸序列及其形成的空间结构，细胞的功能主要由蛋白质完成",
@@ -280,10 +274,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-sugar-lipid"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Carbohydrates / Lipids",
           "curriculum_points": [
             "概述糖类有多种类型，它们既是细胞的重要结构成分，又是生命活动的主要能源物质",
@@ -364,10 +356,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-cell-membrane"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cell Membrane",
           "curriculum_points": [
             "1.2.1 概述细胞都由质膜包裹，质膜将细胞与其生活环境分开，能控制物质进出，并参与细胞间的信息交流",
@@ -462,10 +452,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-organelles"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Organelles",
           "curriculum_points": [
             "阐明细胞内具有多个相对独立的结构，担负着物质运输、合成与分解、能量转换和信息传递等生命活动",
@@ -579,10 +567,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-endomembrane-system"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "阐明细胞内具有多个相对独立的结构，担负着物质运输、合成与分解、能量转换和信息传递等生命活动",
             "举例说明细胞各部分结构之间相互联系、协调一致，共同执行细胞的各项生命活动"
@@ -622,10 +608,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-nucleus"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cells",
           "curriculum_points": [
             "1.2.3 阐明遗传信息主要储存在细胞核中",
@@ -658,10 +642,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-prokaryote-eukaryote"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cells",
           "curriculum_points": [
             "描述原核细胞与真核细胞的最大区别是原核细胞没有由核膜包被的细胞核",
@@ -778,10 +760,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-cell-metabolism"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cells",
           "curriculum_points": [
             "阐明ATP是驱动细胞生命活动的直接能源物质。",
@@ -1534,10 +1514,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-cell-division-demo"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cell Division",
           "curriculum_points": [
             "2.3.1 描述细胞通过不同的方式进行分裂，其中有丝分裂保证了遗传信息在亲代和子代细胞中的一致性",
@@ -1787,10 +1765,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-meiosis"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Meiosis",
           "curriculum_points": [
             "本模块选取的减数分裂和受精作用、DNA分子的结构和功能、遗传和变异的基本原理及应用等知识，主要是从细胞水平和分子水平阐述生命的延续性",
@@ -3795,10 +3771,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-h-nervous-regulation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Neural Regulation",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「神经调节」的基本概念与方法",

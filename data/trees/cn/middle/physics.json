@@ -195,10 +195,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "phy-m-light-reflection"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Reflection of Light",
           "curriculum_points": [
@@ -260,10 +258,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "phy-light-refraction"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Refraction of Light",
           "curriculum_points": [
@@ -642,10 +638,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "teachany-phy-mid-pressure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Pressure",
           "curriculum_points": [
@@ -666,10 +660,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "phy-pressure-buoyancy"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Liquid Pressure / Buoyancy",
           "curriculum_points": [
             "探究并了解液体压强与哪些因素有关。知道大气压强及其与人类生活的关系。了解流体压强与流速的关系及其在生产生活中的应用。",
@@ -688,10 +680,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "phy-mid-atmospheric-pressure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Atmospheric Pressure",
           "curriculum_points": [
@@ -711,10 +701,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "phy-mid-fluid-flow"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Pressure / Fluids",
           "curriculum_points": [
@@ -1096,10 +1084,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "phy-ohms-law"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Ohm's Law",
           "curriculum_points": [
             "通过实验，探究电流与电压、电阻的关系。理解欧姆定律。",

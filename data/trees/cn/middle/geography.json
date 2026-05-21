@@ -19,10 +19,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "geography-earth-shape-size"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Earth",
           "curriculum_points": [
             "结合科学故事、史实材料等，说出人类对地球形状的认识过程，使用数据、类比等方式描述地球的大小。",
@@ -170,10 +168,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "geo-m-contour-topographic"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Landforms",
           "curriculum_points": [
             "通过阅读地形图、图像，观看影视资料，观察地形模型或实地考察等，区别山地、丘陵、高原、平原、盆地的形态特征。",
@@ -322,10 +318,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "geo-m-world-regions"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "运用地图和相关资料，描述某地区的地理位置，简要归纳自然地理特征，说明该特征对当地人们生产生活的影响。",
             "以某地区的一种自然资源为例，说出该资源在当地的分布状况、对外输出地区以及对当地乃至世界的重要意义。",
@@ -534,10 +528,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "geography-chinese-agriculture"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Agriculture",
           "curriculum_points": [
             "借助地图和相关资料，举例描述中国农业等生产活动的分布，并用实例说明科学技术在产业发展中的重要作用。",

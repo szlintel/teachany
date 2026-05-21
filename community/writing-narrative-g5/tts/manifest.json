@@ -1,0 +1,16 @@
+{
+  "status": "exempted",
+  "exemption_reason": "Edge Neural TTS failed twice (exit code 2) — likely network connectivity issue or service unavailable. Low-quality fallback is disabled.",
+  "attempted_at": "2026-05-21",
+  "error_message": "Edge Neural TTS 失败；低质量回退已禁用",
+  "retries": 2,
+  "planned_files": [
+    {
+      "id": "s01-intro",
+      "text": "欢迎来到记事作文课堂！你是不是经常觉得写作文没东西可写？别担心，今天我们要学习放大镜写作法，把一件小事拆成五个镜头来写，轻松写出精彩作文！",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "output": "tts/s01-intro.mp3",
+      "status": "failed"
+    }
+  ]
+}

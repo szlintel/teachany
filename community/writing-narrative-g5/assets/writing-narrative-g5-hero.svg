@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="放大镜写作法 — 把一件小事拆成五个镜头">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fdf4ff"/>
+    <stop offset="50%" stop-color="#f0f9ff"/>
+    <stop offset="100%" stop-color="#fefce8"/>
+  </linearGradient>
+  <linearGradient id="lens1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#818cf8"/><stop offset="100%" stop-color="#6366f1"/>
+  </linearGradient>
+  <linearGradient id="lens2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#0ea5e9"/>
+  </linearGradient>
+  <linearGradient id="lens3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fb923c"/><stop offset="100%" stop-color="#f97316"/>
+  </linearGradient>
+  <linearGradient id="lens4" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#22c55e"/>
+  </linearGradient>
+  <linearGradient id="lens5" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#c084fc"/><stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="glassGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#e0e7ff"/><stop offset="100%" stop-color="#c7d2fe"/>
+  </linearGradient>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+    <feOffset dx="0" dy="3" result="offsetblur"/>
+    <feComponentTransfer><feFuncA type="linear" slope="0.18"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+    <feOffset dx="0" dy="0" result="blur"/>
+    <feComponentTransfer><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<!-- Background -->
+<rect width="1280" height="720" fill="url(#bg)"/>
+
+<!-- Decorative circles -->
+<circle cx="120" cy="100" r="60" fill="#e0e7ff" opacity="0.4"/>
+<circle cx="1160" cy="620" r="80" fill="#fce7f3" opacity="0.35"/>
+<circle cx="1050" cy="120" r="40" fill="#fef3c7" opacity="0.5"/>
+<circle cx="200" cy="580" r="50" fill="#d1fae5" opacity="0.4"/>
+
+<!-- Title area -->
+<text x="640" y="52" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="18" font-weight="400" fill="#64748b">五年级记事作文</text>
+<text x="640" y="98" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="46" font-weight="800" fill="#1e293b">放大镜写作法</text>
+
+<!-- Magnifying glass illustration (center-top) -->
+<g transform="translate(640, 195)" filter="url(#glow)">
+  <!-- Glass rim -->
+  <circle cx="0" cy="0" r="52" fill="none" stroke="#6366f1" stroke-width="6" opacity="0.7"/>
+  <!-- Glass lens -->
+  <circle cx="0" cy="0" r="48" fill="url(#glassGrad)" opacity="0.5"/>
+  <!-- Shine -->
+  <ellipse cx="-14" cy="-14" rx="18" ry="12" fill="white" opacity="0.6" transform="rotate(-30)"/>
+  <!-- Handle -->
+  <line x1="36" y1="36" x2="68" y2="68" stroke="#6366f1" stroke-width="8" stroke-linecap="round" opacity="0.7"/>
+</g>
+
+<!-- Small event text inside/below magnifier -->
+<text x="640" y="270" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="15" font-weight="500" fill="#6366f1">一件小事</text>
+
+<!-- Downward arrow from magnifier to the 5 lenses -->
+<line x1="640" y1="290" x2="640" y2="330" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="632,325 640,340 648,325" fill="#94a3b8"/>
+<text x="640" y="356" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" font-weight="400" fill="#94a3b8">拆解为</text>
+
+<!-- Connector line spanning all 5 cards -->
+<line x1="148" y1="380" x2="1132" y2="380" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="8 5"/>
+
+<!-- 5 Lens cards -->
+<!-- Card 1: 起因场景 -->
+<g filter="url(#softShadow)" transform="translate(80, 400)">
+  <rect x="0" y="0" width="190" height="200" rx="16" fill="white"/>
+  <rect x="0" y="0" width="190" height="6" rx="3" fill="url(#lens1)"/>
+  <circle cx="95" cy="60" r="26" fill="#eef2ff"/>
+  <text x="95" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#6366f1" font-family="system-ui,sans-serif">01</text>
+  <text x="95" y="73" text-anchor="middle" font-size="13" fill="#6366f1">🔭</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="19" font-weight="700" fill="#1e293b">起因场景</text>
+  <text x="95" y="138" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">时间、地点</text>
+  <text x="95" y="158" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">环境背景</text>
+  <line x1="45" y1="172" x2="145" y2="172" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="95" y="190" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="11" fill="#94a3b8">~80-100字</text>
+</g>
+
+<!-- Card 2: 发展动作 -->
+<g filter="url(#softShadow)" transform="translate(298, 400)">
+  <rect x="0" y="0" width="190" height="200" rx="16" fill="white"/>
+  <rect x="0" y="0" width="190" height="6" rx="3" fill="url(#lens2)"/>
+  <circle cx="95" cy="60" r="26" fill="#f0f9ff"/>
+  <text x="95" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#0ea5e9" font-family="system-ui,sans-serif">02</text>
+  <text x="95" y="73" text-anchor="middle" font-size="13" fill="#0ea5e9">🏃</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="19" font-weight="700" fill="#1e293b">发展动作</text>
+  <text x="95" y="138" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">发生了什么</text>
+  <text x="95" y="158" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">你的行动</text>
+  <line x1="45" y1="172" x2="145" y2="172" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="95" y="190" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="11" fill="#94a3b8">~80-100字</text>
+</g>
+
+<!-- Card 3: 高潮细节 (center, slightly elevated) -->
+<g filter="url(#softShadow)" transform="translate(516, 390)">
+  <rect x="0" y="0" width="190" height="220" rx="16" fill="white" stroke="#f97316" stroke-width="2"/>
+  <rect x="0" y="0" width="190" height="6" rx="3" fill="url(#lens3)"/>
+  <circle cx="95" cy="60" r="26" fill="#fff7ed"/>
+  <text x="95" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#f97316" font-family="system-ui,sans-serif">03</text>
+  <text x="95" y="73" text-anchor="middle" font-size="13" fill="#f97316">⚡</text>
+  <text x="95" y="112" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="19" font-weight="700" fill="#1e293b">高潮细节</text>
+  <text x="95" y="140" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">最紧张/兴奋的</text>
+  <text x="95" y="160" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">瞬间感受</text>
+  <line x1="45" y1="174" x2="145" y2="174" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="95" y="192" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="11" fill="#f97316">★ 重点镜头</text>
+  <text x="95" y="210" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="11" fill="#94a3b8">~100-120字</text>
+</g>
+
+<!-- Card 4: 转折变化 -->
+<g filter="url(#softShadow)" transform="translate(734, 400)">
+  <rect x="0" y="0" width="190" height="200" rx="16" fill="white"/>
+  <rect x="0" y="0" width="190" height="6" rx="3" fill="url(#lens4)"/>
+  <circle cx="95" cy="60" r="26" fill="#f0fdf4"/>
+  <text x="95" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#22c55e" font-family="system-ui,sans-serif">04</text>
+  <text x="95" y="73" text-anchor="middle" font-size="13" fill="#22c55e">🔄</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="19" font-weight="700" fill="#1e293b">转折变化</text>
+  <text x="95" y="138" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">意外变化</text>
+  <text x="95" y="158" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">心情转变</text>
+  <line x1="45" y1="172" x2="145" y2="172" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="95" y="190" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="11" fill="#94a3b8">~80-100字</text>
+</g>
+
+<!-- Card 5: 结尾感悟 -->
+<g filter="url(#softShadow)" transform="translate(952, 400)">
+  <rect x="0" y="0" width="190" height="200" rx="16" fill="white"/>
+  <rect x="0" y="0" width="190" height="6" rx="3" fill="url(#lens5)"/>
+  <circle cx="95" cy="60" r="26" fill="#faf5ff"/>
+  <text x="95" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#a855f7" font-family="system-ui,sans-serif">05</text>
+  <text x="95" y="73" text-anchor="middle" font-size="13" fill="#a855f7">💡</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="19" font-weight="700" fill="#1e293b">结尾感悟</text>
+  <text x="95" y="138" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">最大收获</text>
+  <text x="95" y="158" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="13" fill="#64748b">或感受</text>
+  <line x1="45" y1="172" x2="145" y2="172" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="95" y="190" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="11" fill="#94a3b8">~80-100字</text>
+</g>
+
+<!-- Flow arrows between cards -->
+<polygon points="278,500 290,495 290,505" fill="#cbd5e1"/>
+<polygon points="496,500 508,495 508,505" fill="#cbd5e1"/>
+<polygon points="714,510 726,505 726,515" fill="#cbd5e1"/>
+<polygon points="932,500 944,495 944,505" fill="#cbd5e1"/>
+
+<!-- Bottom result bar -->
+<rect x="340" y="640" width="600" height="44" rx="22" fill="#6366f1" opacity="0.1"/>
+<text x="640" y="667" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="16" font-weight="600" fill="#4338ca">5 个镜头 = 一篇精彩作文（500字）</text>
+
+<!-- Watermark -->
+<text x="1256" y="710" text-anchor="end" font-family="system-ui,sans-serif" font-size="11" fill="#c7d2fe">TeachAny · writing-narrative-g5 · 放大镜写作法</text>
+</svg>

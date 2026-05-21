@@ -200,13 +200,11 @@
           "name_en": "Population & migration",
           "grade": 9,
           "difficulty": 3,
-          "status": "active",
+          "status": "gap",
           "prerequisites": [
             "humanities-ib-myp-myp-human-geo"
           ],
-          "courses": [
-            "humanities-population-migration-demo"
-          ],
+          "courses": [],
           "extends": [],
           "parallel": [],
           "curriculum_points": [
