@@ -19,10 +19,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-sets"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Sets",
           "curriculum_points": [
             "内容包括：集合的概念与表示、集合的基本关系、集合的基本运算。",
@@ -43,10 +41,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-h-sets-logic"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Sets",
           "curriculum_points": [
             "内容包括：集合、常用逻辑用语、相等关系与不等关系、从函数观点看一元二次方程和一元二次不等式。",
@@ -67,10 +63,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-propositions"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Logic",
           "curriculum_points": [
             "通过对典型数学命题的梳理，理解充要条件的意义，理解数学定义与充要条件的关系。",
@@ -90,10 +84,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-inequalities"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Inequalities",
           "curriculum_points": [
             "梳理等式的性质，理解不等式的概念，掌握不等式的性质。",
@@ -113,10 +105,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-basic-inequality"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Inequalities",
           "curriculum_points": [
             "掌握基本不等式√(ab)≤(a+b)/2（a,b≥0）。结合具体实例，能用基本不等式解决简单的最大值或最小值问题。",
@@ -135,10 +125,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-linear-programming"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Linear Programming",
           "curriculum_points": [
             "高中10年级学段目标：理解并掌握「线性规划」的基本概念与方法",
@@ -166,10 +154,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-functions-concept"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Concept of Function",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -188,10 +174,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-function-properties"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Properties of Functions",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -210,10 +194,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-power-function"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Power Function",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -232,10 +214,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-exponential-function"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Exponential Function",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -254,10 +234,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-logarithmic-function"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Logarithmic Function",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -299,10 +277,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-function-models"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "数学建模是对现实问题进行数学抽象，用数学语言表达问题、用数学方法构建模型解决问题的素养。",
             "数学建模过程主要包括：在实际情境中从数学的视角发现问题、提出问题，分析问题、建立模型，确定参数、计算求解，检验结果、改进模型，最终解决实际问题。",
@@ -329,10 +305,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-trig-ratios"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Trigonometric Functions / Angles",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -352,10 +326,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-trig-identities"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Angles",
           "curriculum_points": [
             "高中10年级学段目标：理解并掌握「三角恒等变换」的基本概念与方法",
@@ -375,10 +347,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-trig-graphs"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Trigonometric Functions",
           "curriculum_points": [
             "内容包括：函数概念与性质、幂函数、指数函数、对数函数、三角函数、函数应用。",
@@ -419,10 +389,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-law-of-sines-cosines"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Law of Sines / Law of Cosines",
           "curriculum_points": [
             "内容包括：平面向量及其应用、复数、立体几何初步。",
@@ -468,10 +436,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-vector-basics"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Plane Vectors / Concept",
           "curriculum_points": [
             "内容包括：平面向量及其应用"
@@ -489,10 +455,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-vector-coordinates"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Plane Vectors",
           "curriculum_points": [
             "内容包括：平面向量及其应用、复数、立体几何初步。",
@@ -520,10 +484,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-arithmetic-sequence"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Arithmetic Sequence",
           "curriculum_points": [
             "内容包括：等差数列的概念、等差数列的前n项和公式。",
@@ -543,10 +505,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-geometric-sequence"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Geometric Sequence",
           "curriculum_points": [
             "高中10年级学段目标：理解并掌握「等比数列」的基本概念与方法",
@@ -566,10 +526,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-sequence-summation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Sequences",
           "curriculum_points": [
             "高中10年级学段目标：理解并掌握「数列求和」的基本概念与方法",
@@ -595,10 +553,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-space-figures"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Structure",
           "curriculum_points": [
             "内容包括：集合、常用逻辑用语、相等关系与不等关系、从函数观点看一元二次方程和一元二次不等式。",
@@ -617,10 +573,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-space-lines-planes"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "内容包括：集合、常用逻辑用语、相等关系与不等关系、从函数观点看一元二次方程和一元二次不等式。",
             "在集合、常用逻辑用语的教学中，教师应创设合适的教学情境，以义务教育阶段学过的数学内容为载体，引导学生用集合语言和常用逻辑用语梳理、表达学过的相应数学内容。"
@@ -638,10 +592,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-parallel-perpendicular"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "内容包括：集合、常用逻辑用语、相等关系与不等关系、从函数观点看一元二次方程和一元二次不等式。",
             "在集合、常用逻辑用语的教学中，教师应创设合适的教学情境，以义务教育阶段学过的数学内容为载体，引导学生用集合语言和常用逻辑用语梳理、表达学过的相应数学内容。"
@@ -659,10 +611,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-dihedral-angle"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Angles",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「二面角」的基本概念与方法",
@@ -683,10 +633,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-space-vectors"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Space Vectors",
           "curriculum_points": [
             "空间向量与代数专题，其中微积分2.5学分，空间向量与代数2学分，概率与统计1.5学分。供有志于学习数理类（如数学、物理、计算机、精密仪器等）专业的学生选择。",
@@ -713,10 +661,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-line-equation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Equations",
           "curriculum_points": [
             "内容包括：集合、常用逻辑用语、相等关系与不等关系、从函数观点看一元二次方程和一元二次不等式。",
@@ -735,10 +681,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-circle-equation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Equation of Circle",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「圆的方程」的基本概念与方法",
@@ -779,10 +723,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-ellipse"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Ellipse",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「椭圆」的基本概念与方法",
@@ -802,10 +744,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-hyperbola"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Hyperbola",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「双曲线」的基本概念与方法",
@@ -825,10 +765,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-parabola-h"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Parabola",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「抛物线」的基本概念与方法",
@@ -849,10 +787,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-conic-comprehensive"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Conic Sections",
           "curriculum_points": [
             "高中12年级学段目标：理解并掌握「圆锥曲线综合」的基本概念与方法",
@@ -880,10 +816,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-counting-principles"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "计数原理包括分类加法计数原理、分步乘法计数原理。分类加法计数原理针对完成一件事的不同方案，分步乘法计数原理针对完成一件事的多个步骤。",
             "能根据实际问题的特征，正确选择分类加法计数原理或分步乘法计数原理解决简单的实际问题。",
@@ -902,10 +836,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-binomial-theorem"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Binomial Theorem",
           "curriculum_points": [
             "高中11年级学段目标：理解并掌握「二项式定理」的基本概念与方法",
@@ -925,10 +857,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-probability-h"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Probability",
           "curriculum_points": [
             "概率统计是必修课程的主题四，内容包括概率与统计两个单元。"
@@ -946,10 +876,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-random-variable"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "概率与统计是高中数学课程内容的主线之一，贯穿必修、选择性必修和选修课程。",
             "数据分析是研究随机现象的重要数学技术，是大数据时代数学应用的主要方法。"
@@ -967,10 +895,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-regression-analysis"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Statistics",
           "curriculum_points": [
             "数据分析是指针对研究对象获取数据，运用数学方法对数据进行整理、分析和推断，形成关于研究对象知识的素养。",
@@ -998,10 +924,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-derivative-concept"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Derivatives",
           "curriculum_points": [
             "A类课程包括微积分、空间向量与代数、概率与统计三个专题，其中微积分2.5学分。供有志于学习数理类（如数学、物理、计算机、精密仪器等）专业的学生选择。",
@@ -1021,10 +945,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-high-derivative-application"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Derivatives",
           "curriculum_points": [
             "掌握基本不等式√ab ≤ (a+b)/2（a,b≥0）。结合具体实例，能用基本不等式解决简单的最大值或最小值问题。",

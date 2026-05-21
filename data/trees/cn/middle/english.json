@@ -48,10 +48,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "eng-curriculum-vocabulary"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "description": "以《义务教育英语课程标准（2022年版）》三级词汇表为准，公开解读通常对应 1600 个词根词；知识树不再使用“中考1600词汇”作为官方标签。",
           "name_en": "Vocabulary",
           "curriculum_points": [

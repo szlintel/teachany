@@ -142,13 +142,11 @@
           "name_en": "Boolean expressions",
           "grade": 10,
           "difficulty": 3,
-          "status": "active",
+          "status": "gap",
           "prerequisites": [
             "cs-ap-a-variables-expressions"
           ],
-          "courses": [
-            "cs-ap-a-boolean-demo"
-          ],
+          "courses": [],
           "extends": [],
           "parallel": [],
           "curriculum_points": [

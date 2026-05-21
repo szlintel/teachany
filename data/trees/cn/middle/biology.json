@@ -19,10 +19,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-characteristics"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "细胞是生物体结构和功能的基本单位。细胞的分裂、分化和生长是细胞重要的生命活动。",
             "识别动植物细胞的结构并说出其异同点，说明细胞是生物体结构和功能的基本单位。",
@@ -41,10 +39,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-microscope-use"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Using a Microscope",
           "curriculum_points": [
             "正确、规范地制作临时装片，使用显微镜进行观察，能够针对观察结果中可能出现的成像不佳等情况，从材料制备、仪器设备、操作程序等方面初步分析原因。",
@@ -85,10 +81,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-cell-structure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Structure / Cells",
           "curriculum_points": [
             "动物细胞、植物细胞都具有细胞膜、细胞质、细胞核等结构。植物细胞具有不同于动物细胞的结构，如叶绿体和细胞壁。",
@@ -111,10 +105,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-cell-life"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cells",
           "curriculum_points": [
             "细胞不同结构的功能各不相同，共同完成细胞的各项生命活动。",
@@ -134,11 +126,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-cell-division",
-            "bio-m-cell-division-m"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cell Division",
           "curriculum_points": [
             "细胞能通过分裂和分化形成不同的组织",
@@ -150,22 +139,6 @@
           "chapter_source": "legacy_graph",
           "excerpt_ids": [
             "fill-kp-bio-m-cell-basis-bio-m-cell-division-m"
-          ],
-          "course_variants": [
-            {
-              "id": "bio-cell-division",
-              "author": "TeachAny",
-              "variant": "",
-              "version": "1.0.0",
-              "difficulty": 3
-            },
-            {
-              "id": "bio-m-cell-division-m",
-              "author": "TeachAny 用户",
-              "variant": "",
-              "version": "1.0.0",
-              "difficulty": 1
-            }
           ]
         },
         {
@@ -198,10 +171,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-tissue-types"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "功能不同的组织可以形成器官，共同完成某种生理功能的器官可以形成系统。",
             "绿色开花植物体的结构层次包括细胞、组织、器官和个体，高等动物体的结构层次包括细胞、组织、器官、系统和个体。",
@@ -228,10 +199,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-m-biosphere-scope"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Biosphere",
           "curriculum_points": [
             "生态系统中的生物与非生物环境相互作用，实现了物质循环和能量流动。",
@@ -252,10 +221,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-eco-factors"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Ecology",
           "curriculum_points": [
             "生态因素能够影响生物的生活和分布，生物能够适应和影响环境",
@@ -276,11 +243,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-biosphere-scope",
-            "bio-m-biosphere-scope"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Biosphere",
           "curriculum_points": [
             "生态系统是由生产者、消费者、分解者与非生物环境构成的有机整体。",
@@ -289,22 +253,6 @@
           ],
           "excerpt_ids": [
             "fill-kp-bio-m-biosphere-bio-m-biosphere-scope"
-          ],
-          "course_variants": [
-            {
-              "id": "bio-biosphere-scope",
-              "author": "weponusa",
-              "variant": "",
-              "version": "1.0.0",
-              "difficulty": 2
-            },
-            {
-              "id": "bio-m-biosphere-scope",
-              "author": "TeachAny 用户",
-              "variant": "",
-              "version": "1.0.0",
-              "difficulty": 1
-            }
           ]
         },
         {
@@ -317,10 +265,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-food-chain"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Food Chain / Food Web",
           "curriculum_points": [
             "生态系统中不同生物之间通过捕食关系形成了食物链和食物网",
@@ -340,10 +286,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-biosphere-largest"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Ecosystems / Biosphere",
           "curriculum_points": [
             "生物圈是包含多种类型生态系统的最大生态系统",
@@ -363,10 +307,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-m-ecosystem-junior"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Ecosystems",
           "curriculum_points": [
             "生态系统是由生产者、消费者、分解者与非生物环境构成的有机整体。",
@@ -416,10 +358,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-seed-structure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Seeds",
           "curriculum_points": [
             "概念4 植物有自己的生命周期，可以制造有机物，直接或间接地为其他生物提供食物，参与生物圈的水循环，并维持碳氧平衡。",
@@ -440,10 +380,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-root-tip"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Roots",
           "curriculum_points": [
             "植物通过根吸收水和无机盐，满足植物生长发育的需要。",
@@ -464,10 +402,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-stem-transport"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Stems",
           "curriculum_points": [
             "概念4 植物通过吸收作用和蒸腾作用参与生物圈的水循环，通过光合作用和呼吸作用参与生物圈的碳氧平衡",
@@ -487,10 +423,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-leaf-structure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Leaf Structure",
           "curriculum_points": [
             "植物细胞具有不同于动物细胞的结构，如叶绿体和细胞壁等。",
@@ -511,10 +445,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-photosynthesis"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Photosynthesis",
           "curriculum_points": [
             "概念 3.1.5 生态系统中的物质和能量通过食物链在生物之间传递",
@@ -533,10 +465,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-respiration"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Cellular Respiration",
           "curriculum_points": [
             "概念4 植物通过光合作用和呼吸作用参与生物圈中的物质循环和能量流动，维持生物圈中的碳氧平衡。",
@@ -556,10 +486,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-transpiration"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Transpiration",
           "curriculum_points": [
             "植物通过根吸收水分，通过导管运输水分，通过叶片散失水分，从而参与生物圈中的水循环。",
@@ -579,10 +507,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-flower-structure"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Flower Structure / Pollination",
           "curriculum_points": [
             "概念4 植物有自己的生命周期，可以制造有机物，直接或间接地为其他生物提供食物，参与生物圈的水循环，并维持碳氧平衡。",
@@ -602,10 +528,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-fruit-seed"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Seeds / Fruits",
           "curriculum_points": [
             "概念4 植物有自己的生命周期，可以制造有机物，直接或间接地为其他生物提供食物，参与生物圈的水循环，并维持碳氧平衡。",
@@ -625,10 +549,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-asexual-repro"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Asexual Reproduction",
           "curriculum_points": [
             "无性生殖是植物繁殖的一种方式，如扦插、嫁接等，能够保持母本的优良性状。",
@@ -648,10 +570,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-plant-classify"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Plants",
           "curriculum_points": [
             "根据生物的形态结构、生理功能以及繁殖方式等，可以将生物分为不同的类群。",
@@ -679,10 +599,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-human-overview"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Human Body",
           "curriculum_points": [
             "人体生理与健康是课程内容七个学习主题之一，包含人体概述与消化系统等基础知识。",
@@ -702,10 +620,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-digestion"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Digestive System",
           "curriculum_points": [
             "初中7年级学段目标：理解并掌握「消化系统」的基本概念与方法",
@@ -725,10 +641,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-respiratory"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Respiratory System",
           "curriculum_points": [
             "人体生理与健康主题包含呼吸系统与气体交换等内容，学生应掌握人体各系统的结构和功能。",
@@ -748,11 +662,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-circulation",
-            "bio-m-circulatory-system"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Circulatory System",
           "curriculum_points": [
             "人体生理与健康主题包含血液循环系统相关内容，学生应掌握人体生理与健康的基础知识。",
@@ -761,22 +672,6 @@
           ],
           "excerpt_ids": [
             "fill-kp-bio-m-human-body-bio-m-circulatory-system"
-          ],
-          "course_variants": [
-            {
-              "id": "bio-circulation",
-              "author": "weponusa",
-              "variant": "",
-              "version": "1.4.0",
-              "difficulty": 2
-            },
-            {
-              "id": "bio-m-circulatory-system",
-              "author": "TeachAny 用户",
-              "variant": "",
-              "version": "1.0.0",
-              "difficulty": 1
-            }
           ]
         },
         {
@@ -809,10 +704,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-excretory"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "概念5 人体通过泌尿系统排出代谢废物，维持内环境的稳定",
             "5.3.1 泌尿系统包括肾脏、输尿管、膀胱和尿道等器官",
@@ -852,10 +745,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-nervous-system"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Nervous System",
           "curriculum_points": [
             "初中7年级学段目标：理解并掌握「神经系统」的基本概念与方法",
@@ -875,10 +766,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-endocrine"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Endocrine System",
           "curriculum_points": [
             "初中7年级学段目标：理解并掌握「内分泌系统」的基本概念与方法",
@@ -898,10 +787,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-reproduction"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "概念1 生物体具有一定的结构层次，能够完成各项生命活动。1.2.2 高等动物体的结构层次包括细胞、组织、器官、系统和个体。",
             "描述细胞分裂和分化的基本过程；识别人体和植物体的主要组织；说明细胞通过分裂和分化形成各种组织，组织构成不同的器官。",
@@ -1065,10 +952,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-classification"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "根据生物之间的相似程度将生物划分为界、门、纲、目、科、属、种等分类等级",
             "说明生物的不同分类等级及其相互关系，初步形成生物进化的观点。",
@@ -1108,10 +993,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "bio-cross-disciplinary"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "设置“生物学与社会·跨学科实践”学习主题，引导学生综合运用生物学、化学、物理、地理、数学等学科的相关知识和方法，尝试分析和解决实际问题。",
             "“生物学与社会·跨学科实践”学习主题与其他6个学习主题构成了完整的课程内容体系，它们之间是相互融合的关系。该主题约占总课时数的10%。",

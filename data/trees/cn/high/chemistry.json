@@ -659,10 +659,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-oxidation-reduction"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Redox Reactions",
           "curriculum_points": [
             "认识有化合价变化的反应是氧化还原反应，了解氧化还原反应的本质是电子的转移，知道常见的氧化剂和还原剂。",
@@ -843,10 +841,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-h-aluminum-compounds"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "结合真实情境中的应用实例或通过实验探究，了解钠、铁及其重要化合物的主要性质，了解这些物质在生产、生活中的应用。",
             "铁及其化合物的性质实验；氢氧化亚铁的制备；"
@@ -2506,10 +2502,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "chem-h-galvanic-cell"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "情境素材建议：有关化学发现的故事：电离理论的建立、元素周期律的发展、原电池的发现、氯气的发现、人工合成尿素、工业合成氨、青蒿素的提取等。",
             "认识化学变化的本质特征是有新物质生成，并伴有能量转化；认识化学变化有一定限度、速率，是可以调控的。",

@@ -309,13 +309,11 @@
           "name_en": "Simple harmonic motion",
           "grade": 11,
           "difficulty": 4,
-          "status": "active",
+          "status": "gap",
           "prerequisites": [
             "physics-ap-1-work-energy"
           ],
-          "courses": [
-            "physics-ap-1-shm"
-          ],
+          "courses": [],
           "extends": [],
           "parallel": [],
           "curriculum_points": [

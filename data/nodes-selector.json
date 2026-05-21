@@ -1673,18 +1673,11 @@
     "domain": ""
   },
   {
-    "id": "ext-3301d760",
-    "name": "锂离子电池技术",
-    "subject": "chemistry",
-    "grade": 0,
-    "domain": "user-generated"
-  },
-  {
     "id": "chem-daily-life",
     "name": "化学与生产生活（跨学科实践）",
     "subject": "chemistry",
     "grade": 8,
-    "domain": "general"
+    "domain": "chemistry-society"
   },
   {
     "id": "chem-m-co-properties",
@@ -3108,13 +3101,6 @@
     "domain": "pinyin"
   },
   {
-    "id": "other-chn-pingze-grade1",
-    "name": "古诗里的秘密节奏——《小池》与《池上》 · 小学语文 G1 · TeachAny v6.10",
-    "subject": "chinese",
-    "grade": 1,
-    "domain": "user-generated"
-  },
-  {
     "id": "chn-e-nasal-vowel-back",
     "name": "后鼻韵母",
     "subject": "chinese",
@@ -3386,13 +3372,6 @@
     "subject": "chinese",
     "grade": 4,
     "domain": "sentence-grammar"
-  },
-  {
-    "id": "other-course-classical-poetry",
-    "name": "古典诗词教学课程",
-    "subject": "chinese",
-    "grade": 4,
-    "domain": "user-generated"
   },
   {
     "id": "chn-e-poetry-imagery",
@@ -9597,20 +9576,6 @@
     "domain": ""
   },
   {
-    "id": "ext-242060f0",
-    "name": "PID 控制算法",
-    "subject": "info-tech",
-    "grade": 0,
-    "domain": "user-generated"
-  },
-  {
-    "id": "ext-b849401",
-    "name": "3D 打印工作流程与 G-code 基础",
-    "subject": "info-tech",
-    "grade": 7,
-    "domain": "user-generated"
-  },
-  {
     "id": "it-h-internet-applications",
     "name": "互联网应用（HTTP/Web/邮件）",
     "subject": "info-tech",
@@ -11541,13 +11506,6 @@
     "subject": "math",
     "grade": 8,
     "domain": ""
-  },
-  {
-    "id": "other-math-m-linear-function-inquiry-phone-plan",
-    "name": "一次函数探究课：手机套餐怎么选最划算？",
-    "subject": "math",
-    "grade": 8,
-    "domain": "user-generated"
   },
   {
     "id": "math-cam-lsec-linear-eq-l",
@@ -16084,13 +16042,6 @@
     "subject": "science",
     "grade": 4,
     "domain": ""
-  },
-  {
-    "id": "sci-e-3d-printing-blender",
-    "name": "3D建模入门：用Blender做3D打印模型",
-    "subject": "science",
-    "grade": 5,
-    "domain": "user-generated"
   },
   {
     "id": "science-us-k5-human-earth",

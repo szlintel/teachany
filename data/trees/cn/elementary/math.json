@@ -19,10 +19,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-number-recognition"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Number Sense",
           "curriculum_points": [
             "10以内数的教学重点是使学生体验1-9从数量到数的抽象过程，通过9再加1就是十，体会十的表达与1-9的不同。",
@@ -46,10 +44,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-numbers-within-20"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Number Sense",
           "curriculum_points": [
@@ -71,10 +67,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-numbers-within-100"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Number Sense",
           "curriculum_points": [
@@ -99,10 +93,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-numbers-within-10000"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Number Sense",
           "curriculum_points": [
@@ -128,10 +120,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-large-numbers"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Number Sense",
           "curriculum_points": [
@@ -156,10 +146,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-add-sub-within-20"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "在一年级第一学期的入学适应期，通过具体形象、生动活泼的活动方式学习简单的数学内容。这期间的主要目标包括：会20以内数的加减法（不含退位减法）。",
             "能熟练口算20以内数的加减法和表内乘除法，能口算简单的百以内数的加减法。",
@@ -185,10 +173,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-add-sub-within-100"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Addition and Subtraction within 100",
           "curriculum_points": [
             "探索加法和减法的算理与算法，会整数加减法。",
@@ -216,10 +202,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-multi-digit-addition-subtraction"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "能进行较复杂的整数四则运算和简单的小数、分数的加减运算，理解运算律；形成数感、运算能力和初步的推理意识。",
             "探索并掌握多位数的乘除法，感悟从未知到已知的转化。",
@@ -240,10 +224,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-multiplication-table"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Multiplication Facts",
           "curriculum_points": [
@@ -264,10 +246,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-division-intro"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Division Facts",
           "curriculum_points": [
@@ -288,10 +268,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-division-concept"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Understanding",
           "curriculum_points": [
             "探索乘法和除法的算理与算法，会简单的整数乘除法。",
@@ -316,10 +294,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-multi-digit-multiply"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "探索并掌握多位数的乘除法，感悟从未知到已知的转化。",
             "能计算两位数乘除三位数。",
@@ -346,10 +322,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-multi-digit-divide"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "探索并掌握多位数的乘除法，感悟从未知到已知的转化。",
             "能计算两位数乘除三位数。",
@@ -374,10 +348,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-mixed-operations"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Operations",
           "curriculum_points": [
             "在解决简单实际问题的过程中，理解四则运算的意义，能进行整数四则混合运算。",
@@ -413,10 +385,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-four-operations-laws"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Four Operations / Operation Laws",
           "curriculum_points": [
@@ -449,10 +419,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-operations-laws"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Operation Laws",
           "curriculum_points": [
             "探索并理解运算律（加法交换律和结合律、乘法交换律和结合律、乘法对加法的分配律），能用字母表示运算律。",
@@ -494,10 +462,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-fractions-intro"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Fractions",
           "curriculum_points": [
@@ -518,10 +484,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-decimals-intro"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Decimals",
           "curriculum_points": [
@@ -543,10 +507,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-fractions-meaning"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Fractions",
           "curriculum_points": [
@@ -569,10 +531,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-decimals-meaning"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Decimals",
           "curriculum_points": [
@@ -597,10 +557,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-decimal-operations"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Decimals",
           "curriculum_points": [
@@ -626,10 +584,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-fraction-operations"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Fractions",
           "curriculum_points": [
@@ -658,10 +614,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-fraction-decimal-percent"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Percentages / Fractions / Decimals",
           "curriculum_points": [
@@ -691,10 +645,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-percentage"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Percentages",
           "curriculum_points": [
             "理解百分数的意义，了解随机现象发生的可能性；形成数据意识和初步的应用意识。",
@@ -735,10 +687,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-negative-numbers"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Negative Numbers",
           "curriculum_points": [
@@ -769,10 +719,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-equation-intro"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Letters",
           "curriculum_points": [
             "经历用字母表示数的过程，认识自然数的一些特征，理解小数和分数的意义；能进行小数和分数的四则和运算，探索数运算的一致性；形成符号意识、运算能力、推理意识。",
@@ -823,10 +771,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-simple-equation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Equations",
           "curriculum_points": [
@@ -859,10 +805,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-ratio-proportion"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Proportions",
           "curriculum_points": [
@@ -925,10 +869,8 @@
           "prerequisites": [],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-plane-shapes"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Understanding",
           "curriculum_points": [
@@ -963,10 +905,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-angles"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Angles",
           "curriculum_points": [
             "结合生活情境认识角，知道角的大小关系；会用量角器量角，会用量角器或三角板画角。",
@@ -1010,10 +950,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-triangle-properties"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Triangles",
           "curriculum_points": [
             "认识三角形和四边形，会根据图形特征对三角形和四边形进行分类。",
@@ -1058,10 +996,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-triangles-quadrilaterals"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Triangles / Quadrilaterals",
           "curriculum_points": [
@@ -1096,10 +1032,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-solid-shapes"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Understanding",
           "curriculum_points": [
@@ -1129,10 +1063,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-length-units"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Length",
           "curriculum_points": [
@@ -1157,10 +1089,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-time-units"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Time",
           "curriculum_points": [
@@ -1187,10 +1117,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-mass-units"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Mass",
           "curriculum_points": [
@@ -1213,10 +1141,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-area-units"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Area",
           "curriculum_points": [
@@ -1238,10 +1164,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-volume-units"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Volume",
           "curriculum_points": [
@@ -1263,10 +1187,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-measurement-sense"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "体验物体长度的测量过程，认识常见的长度单位，形成初步的量感。",
             "经历平面图形的周长和面积的测量过程，探索长方形周长和面积的计算方法，形成量感。",
@@ -1308,10 +1230,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-perimeter"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Perimeter",
           "curriculum_points": [
@@ -1341,10 +1261,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-area-rectangle"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Area",
           "curriculum_points": [
             "结合实例认识周长和面积；探索并掌握长方形、正方形的周长和面积的计算公式。",
@@ -1368,10 +1286,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-area-calculation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Area",
           "curriculum_points": [
@@ -1401,10 +1317,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-circle-perimeter-area"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Area / Perimeter / Circle",
           "curriculum_points": [
             "探索几何图形面积和体积的计算方法，会计算常见平面图形的周长和面积。",
@@ -1457,10 +1371,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-circle-area"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Area / Circle",
           "curriculum_points": [
@@ -1485,10 +1397,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-volume-calculation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Volume",
           "curriculum_points": [
@@ -1521,10 +1431,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-solid-surface-area"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Surface Area",
           "curriculum_points": [
             "探索几何图形面积和体积的计算方法，会计算常见平面图形的周长和面积，会计算常见立体图形的体积和表面积。",
@@ -1554,10 +1462,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-cylinder-cone"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Circle",
           "curriculum_points": [
@@ -1585,10 +1491,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-position-direction"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Position and Direction",
           "curriculum_points": [
             "结合实例，感受平移、旋转、轴对称现象。",
@@ -1636,10 +1540,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-symmetry-translation-rotation"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Symmetry / Rotation / Translation",
           "curriculum_points": [
             "结合实例，感受平移、旋转、轴对称现象。",
@@ -1694,10 +1596,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-pictograph"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Statistics",
           "curriculum_points": [
@@ -1729,10 +1629,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-line-graph"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Statistics",
           "curriculum_points": [
@@ -1762,10 +1660,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-average-concept"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Mean",
           "curriculum_points": [
             "经历简单的数据收集过程，了解数据收集、整理和呈现的简单方法；理解平均数的意义，会用平均数解决问题；形成初步的数据意识。",
@@ -1784,10 +1680,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-average-median"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Mean / Median",
           "curriculum_points": [
@@ -1839,10 +1733,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-median-mode"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Median / Mode",
           "curriculum_points": [
             "小学5年级学段目标：理解并掌握「中位数与众数」的基本概念与方法",
@@ -1863,10 +1755,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-pie-chart"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Statistics",
           "curriculum_points": [
@@ -1897,10 +1787,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-percentage-statistics"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "name_en": "Percentages / Applications / Statistics",
           "curriculum_points": [
             "经历收集、整理和表达数据的过程，会用条形统计图、折线统计图表达数据，并作出简单的判断；理解百分数的意义，了解随机现象发生的可能性；形成数据意识和初步的应用意识。",
@@ -1919,10 +1807,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-e-possibility-concept"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "curriculum_points": [
             "理解百分数的意义，了解随机现象发生的可能性；形成数据意识和初步的应用意识。",
             "经历收集、整理和表达数据的过程，会用条形统计图、折线统计图表达数据，并作出简单的判断；理解百分数的意义，了解随机现象发生的可能性。"
@@ -1942,10 +1828,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-possibility"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Fractions",
           "curriculum_points": [
@@ -1973,10 +1857,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-word-problems-basic"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Word Problems",
           "curriculum_points": [
@@ -1999,10 +1881,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-word-problems-multiply"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Multiplication and Division",
           "curriculum_points": [
@@ -2026,10 +1906,8 @@
           ],
           "extends": [],
           "parallel": [],
-          "courses": [
-            "math-elem-complex-word-problems"
-          ],
-          "status": "active",
+          "courses": [],
+          "status": "gap",
           "courseVersion": "1.0",
           "name_en": "Integration",
           "curriculum_points": [
