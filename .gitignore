@@ -149,6 +149,11 @@ data/curricula.json.backup_*
 # 大型历史备份（本地保留，不入库）
 data/_legacy/backups/
 
+# === 数据目录（不应部署到 GitHub Pages）===
+# data/ 包含后端数据，不应出现在 GitHub Pages 部署中
+# 排除整个 data/ 目录以避免部署错误（如 symlink 导致的 tar 错误）
+/data/
+
 # Remotion build artifacts
 community/bio-h-*/remotion/node_modules/
 community/bio-h-*/remotion/out/
